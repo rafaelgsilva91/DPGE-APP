@@ -1,0 +1,8 @@
+{
+  "name": "DPGE-APP",
+  "app_id": "a9af5eb3",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
